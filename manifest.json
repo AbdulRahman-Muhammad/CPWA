@@ -1,0 +1,20 @@
+{
+  "name": "Collepedia",
+  "short_name": "Collepedia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3f51b5",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5oOML-pX3pyZ-eXNoFxyBVfTS-dwn2AJ3hP7-NPoeIN-FEwz-RwNNpfOsRoIEfV8t8Rc_oJPMum6oj2fBZpE7hdCwOyXzvmdim_-XX0fojpfiY3ZgPc8-Sp3eG2h4mYTmQHMm-2PDen___p_o34OHGRzcnboizxcZy91PwHRpNMgWYQ0/s220/1000011218.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5oOML-pX3pyZ-eXNoFxyBVfTS-dwn2AJ3hP7-NPoeIN-FEwz-RwNNpfOsRoIEfV8t8Rc_oJPMum6oj2fBZpE7hdCwOyXzvmdim_-XX0fojpfiY3ZgPc8-Sp3eG2h4mYTmQHMm-2PDen___p_o34OHGRzcnboizxcZy91PwHRpNMgWYQ0/s220/1000011218.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
